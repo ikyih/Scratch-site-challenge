@@ -23,4 +23,7 @@ Challenge I made about making a website entirely in scratch (or Turbowarp)
 
 
 **my submission**
+
 my submission is called cat magic.
+play it [here]([https://ikyih.github.io/Scratch-site-challenge/].
+download the .sb3 [here]([https://github.com/ikyih/Scratch-site-challenge/raw/main/cat%20magic.sb3].
