@@ -9,7 +9,7 @@ Challenge I made about making a website entirely in scratch (or Turbowarp)
 
 **making it into a website**
   1. download the project as a .sb3.
-  2. open [TurboWarp Packager]([https://packager.turbowarp.org] (do this even if you made your project in original scratch).
+  2. open TurboWarp Packager at https://packager.turbowarp.org (do this even if you made your project in original scratch).
   3. upload your .sb3 file.
   4. press load project.
   5. in player options turn on "Start project automatically instead of showing a big green flag".
@@ -25,5 +25,5 @@ Challenge I made about making a website entirely in scratch (or Turbowarp)
 **my submission**
 
 my submission is called cat magic.
-play it [here]([https://ikyih.github.io/Scratch-site-challenge/].
-download the .sb3 [here]([https://github.com/ikyih/Scratch-site-challenge/raw/main/cat%20magic.sb3].
+play it here https://ikyih.github.io/Scratch-site-challenge/.
+download the .sb3 here https://github.com/ikyih/Scratch-site-challenge/raw/main/cat%20magic.sb3.
